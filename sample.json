@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Jake Lapham, Emma Rennie",
+            "title": "NSW government funds housing modules for communities affected by floods in Northern Rivers",
+            "description": "Sportsgrounds, showgrounds and crown land will be transformed into \"mini-villages\" to accommodate thousands of Northern Rivers residents left homeless after the devastating floods.",
+            "url": "https://www.abc.net.au/news/2022-04-17/nsw-government-funds-housing-pods-floods-affected-communities/100995910",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a8b14a2964d5da3a86e459a812b9edf1?impolicy=wcms_crop_resize&cropH=537&cropW=955&xPos=0&yPos=43&width=862&height=485",
+            "publishedAt": "2022-04-17T08:26:15+00:00",
+            "content": "Sportsgrounds, showgrounds and crown land will be transformed into \"mini-villages\" to accommodate thousands of Northern Rivers residents left homeless after the devastating floods.\r\nKey points:\r\n<ul>… [+5727 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.15934331.1.15934331",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2022-04-17T08:22:20.1729599Z",
+            "content": "16. april2022kl.18:23Liverpool og Manchester City møttes for andre gang på én uke, og denne gangen var det de røde som stakk av med seieren og er klare for FA cup-finale etter en sterk første omgang.… [+822 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Esport - Counter-Strike : dernier train pour le Major d'Anvers",
+            "description": "Le RMR européen, ultime tournoi qualificatif pour le Major d'Anvers - la compétition la plus prestigieuse de l'année sur <i>Counter-Strike</i> -, débute ce dimanche à Bucarest. Vitality, G2 Esports et Heet, trois équipes composées de Français, sont en lice.",
+            "url": "https://www.lequipe.fr/Esport/Actualites/Esport-counter-strike-dernier-train-pour-le-major-d-anvers/1328137",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/dan-apex-madesclaire-le-capitaine-de-la-team-vitality-tentera-d-amener-les-siens-au-major-d-anvers-9/1500000001630866/261:74,1835:1124-640-427-75/fa436.jpg",
+            "publishedAt": "2022-04-17T08:00:00+00:00",
+            "content": "Objectif Anvers ! Le premier Major de l'année sur Counter-Strike, compétition la plus prestigieuse sur ce jeu de tir, aura lieu dans un peu moins de deux mois, en Belgique. Pour s'y qualifier, toutes… [+2484 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dylan Gwinn",
+            "title": "Kansas Gov Vetoes Bill Protecting Female Athletes from Trans Competition",
+            "description": "Kansas Gov. Laura Kelly (D) vetoed a bill on Friday that would have prevented males identifying as females from infiltrating girls' sports.",
+            "url": "https://www.breitbart.com/sports/2022/04/16/kansas-governor-vetoes-bill-protecting-female-athletes-from-trans-competition/",
+            "urlToImage": "https://media.breitbart.com/media/2022/02/Kathryn-Riley_Getty-Images-4-640x335.jpg",
+            "publishedAt": "2022-04-17T02:56:05Z",
+            "content": "Kansas Governor Laura Kelly (D) vetoed a GOP-led bill on Friday that would have prevented males identifying as females from infiltrating and dominating girls’ sports.\r\nWe all want a fair and safe pla… [+1503 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Joel Reuter",
+            "title": "Sports Cards: 5 MLB Players Whose Stock Is Up After Hot Start",
+            "description": "Nothing goes together quite like the baseball card market and overreacting to a hot start over a small sample size at the beginning of a new season...",
+            "url": "https://bleacherreport.com/articles/2955314-sports-cards-5-mlb-players-whose-stock-is-up-after-hot-start",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/921/361/hi-res-c00f95cb9894d69f838b139b716d504c_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2022-04-16T11:00:02Z",
+            "content": "Brace Hemmelgarn/Getty Images\r\nKey Card: 2013 Bowman Chrome Prospect Auto #BB\r\neBay Sales Progression\r\nMarch 13: $200 (BGS 9.5)April 7: $325 (BGS 9.5)April 8: $400 (BGS 9.5)April 10: $420 (BGS 9.5)\r\n… [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
